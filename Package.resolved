@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swiftpm_daddy",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mamouneyya/SwiftPM_Daddy.git",
+      "state" : {
+        "revision" : "0e4104567067599785cba0aa2eecaab1f2fcac5c",
+        "version" : "0.0.1"
+      }
+    },
+    {
+      "identity" : "swiftpm_mommy",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:mamouneyya/SwiftPM_Mommy.git",
+      "state" : {
+        "revision" : "7d49b4bedf7ca1c8a11cfdf431ca135798837712",
+        "version" : "0.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
